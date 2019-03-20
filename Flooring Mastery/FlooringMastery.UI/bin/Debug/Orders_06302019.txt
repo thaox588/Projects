@@ -1,0 +1,2 @@
+OrderNumber, CustomerName, State, TaxRate, ProductType, Area, CostPerSquareFoot, LaborCostPerSquareFoot, MaterialCost, LaborCost, Tax, Total
+1,Yeng, Inc,IN,6.00,Wood,555,5.15,4.75,2858.25,2636.25,329.6700,5824.1700

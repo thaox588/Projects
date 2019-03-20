@@ -1,0 +1,16 @@
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Tests.dll.config
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Tests.dll
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Tests.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\nunit.framework.dll
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.BLL.dll
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Data.dll
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Models.dll
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.BLL.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Data.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\SGBank.Models.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\bin\Debug\nunit.framework.xml
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\obj\Debug\SGBank.Tests.csprojAssemblyReference.cache
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CoreCompileInputs.cache
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\obj\Debug\SGBank.Tests.csproj.CopyComplete
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\obj\Debug\SGBank.Tests.dll
+C:\Repos\yeng-thao-individual-work\SGBank.Tests\obj\Debug\SGBank.Tests.pdb

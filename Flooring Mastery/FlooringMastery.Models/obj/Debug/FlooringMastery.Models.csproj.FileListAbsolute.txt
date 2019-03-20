@@ -1,0 +1,12 @@
+C:\Users\thaox\source\repos\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Users\thaox\source\repos\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Users\thaox\source\repos\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Users\thaox\source\repos\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Users\thaox\source\repos\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Users\thaox\source\repos\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb
+C:\Repos\yeng-thao-individual-work\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.dll
+C:\Repos\yeng-thao-individual-work\Flooring Mastery\FlooringMastery.Models\bin\Debug\FlooringMastery.Models.pdb
+C:\Repos\yeng-thao-individual-work\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csprojAssemblyReference.cache
+C:\Repos\yeng-thao-individual-work\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.csproj.CoreCompileInputs.cache
+C:\Repos\yeng-thao-individual-work\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.dll
+C:\Repos\yeng-thao-individual-work\Flooring Mastery\FlooringMastery.Models\obj\Debug\FlooringMastery.Models.pdb

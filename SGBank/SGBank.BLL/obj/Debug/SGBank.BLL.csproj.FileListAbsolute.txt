@@ -1,0 +1,11 @@
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\bin\Debug\SGBank.BLL.dll
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\bin\Debug\SGBank.BLL.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\bin\Debug\SGBank.Data.dll
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\bin\Debug\SGBank.Models.dll
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\bin\Debug\SGBank.Data.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\bin\Debug\SGBank.Models.pdb
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\obj\Debug\SGBank.BLL.csprojAssemblyReference.cache
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CoreCompileInputs.cache
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\obj\Debug\SGBank.BLL.csproj.CopyComplete
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\obj\Debug\SGBank.BLL.dll
+C:\Repos\yeng-thao-individual-work\SGBank.BLL\obj\Debug\SGBank.BLL.pdb

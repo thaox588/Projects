@@ -1,0 +1,2 @@
+C:\Users\thaox\source\repos\Flooring Mastery\Flooring Mastery\obj\Debug\FlooringMastery.csprojAssemblyReference.cache
+C:\Users\thaox\source\repos\Flooring Mastery\Flooring Mastery\obj\Debug\FlooringMastery.csproj.CoreCompileInputs.cache

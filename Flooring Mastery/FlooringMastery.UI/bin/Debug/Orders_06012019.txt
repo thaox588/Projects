@@ -1,0 +1,2 @@
+OrderNumber, CustomerName, State, TaxRate, ProductType, Area, CostPerSquareFoot, LaborCostPerSquareFoot, MaterialCost, LaborCost, Tax, Total
+1,Yeng,Inc,OH,6.25,Carpet,666,2.25,2.10,1498.50,1398.60,181.068750,3078.168750

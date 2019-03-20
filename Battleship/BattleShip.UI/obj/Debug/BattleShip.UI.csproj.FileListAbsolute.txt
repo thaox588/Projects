@@ -1,0 +1,16 @@
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.csprojResolveAssemblyReference.cache
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+D:\Git\Curriculum\dotnet\ObjectOrientedProgramming\02-Classes-And-Objects\Assessments\Battleship\BattleShip_Start\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\obj\Debug\BattleShip.UI.csprojAssemblyReference.cache
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CoreCompileInputs.cache
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\obj\Debug\BattleShip.UI.exe
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\obj\Debug\BattleShip.UI.pdb
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\bin\Debug\BattleShip.UI.exe.config
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\bin\Debug\BattleShip.UI.exe
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\bin\Debug\BattleShip.UI.pdb
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\bin\Debug\BattleShip.BLL.dll
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\bin\Debug\BattleShip.BLL.pdb
+C:\Repos\yeng-thao-individual-work\BattleShip.UI\obj\Debug\BattleShip.UI.csproj.CopyComplete
